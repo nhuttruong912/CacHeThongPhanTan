@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Documents\\NH 2023-2024\\HK1-NH2023-2024\\CacHeThongPhanTan\\DO_AN\\Token_Ring_in_distributed_System\\client\\client.csproj": {}
+  },
+  "projects": {
+    "D:\\Documents\\NH 2023-2024\\HK1-NH2023-2024\\CacHeThongPhanTan\\DO_AN\\Token_Ring_in_distributed_System\\client\\client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documents\\NH 2023-2024\\HK1-NH2023-2024\\CacHeThongPhanTan\\DO_AN\\Token_Ring_in_distributed_System\\client\\client.csproj",
+        "projectName": "client",
+        "projectPath": "D:\\Documents\\NH 2023-2024\\HK1-NH2023-2024\\CacHeThongPhanTan\\DO_AN\\Token_Ring_in_distributed_System\\client\\client.csproj",
+        "packagesPath": "C:\\Users\\nhutt\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\NH 2023-2024\\HK1-NH2023-2024\\CacHeThongPhanTan\\DO_AN\\Token_Ring_in_distributed_System\\client\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nhutt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

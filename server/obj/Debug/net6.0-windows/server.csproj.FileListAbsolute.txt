@@ -1,0 +1,50 @@
+C:\Users\ezernt\source\repos\client\server\bin\Debug\net6.0-windows\server.exe
+C:\Users\ezernt\source\repos\client\server\bin\Debug\net6.0-windows\server.deps.json
+C:\Users\ezernt\source\repos\client\server\bin\Debug\net6.0-windows\server.runtimeconfig.json
+C:\Users\ezernt\source\repos\client\server\bin\Debug\net6.0-windows\server.dll
+C:\Users\ezernt\source\repos\client\server\bin\Debug\net6.0-windows\server.pdb
+C:\Users\ezernt\source\repos\client\server\obj\Debug\net6.0-windows\server.csproj.AssemblyReference.cache
+C:\Users\ezernt\source\repos\client\server\obj\Debug\net6.0-windows\server.server.resources
+C:\Users\ezernt\source\repos\client\server\obj\Debug\net6.0-windows\server.csproj.GenerateResource.cache
+C:\Users\ezernt\source\repos\client\server\obj\Debug\net6.0-windows\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezernt\source\repos\client\server\obj\Debug\net6.0-windows\server.AssemblyInfoInputs.cache
+C:\Users\ezernt\source\repos\client\server\obj\Debug\net6.0-windows\server.AssemblyInfo.cs
+C:\Users\ezernt\source\repos\client\server\obj\Debug\net6.0-windows\server.csproj.CoreCompileInputs.cache
+C:\Users\ezernt\source\repos\client\server\obj\Debug\net6.0-windows\server.dll
+C:\Users\ezernt\source\repos\client\server\obj\Debug\net6.0-windows\refint\server.dll
+C:\Users\ezernt\source\repos\client\server\obj\Debug\net6.0-windows\server.pdb
+C:\Users\ezernt\source\repos\client\server\obj\Debug\net6.0-windows\server.genruntimeconfig.cache
+C:\Users\ezernt\source\repos\client\server\obj\Debug\net6.0-windows\ref\server.dll
+C:\Users\ezernt\source\repos\token_ring\server\bin\Debug\net6.0-windows\server.exe
+C:\Users\ezernt\source\repos\token_ring\server\bin\Debug\net6.0-windows\server.deps.json
+C:\Users\ezernt\source\repos\token_ring\server\bin\Debug\net6.0-windows\server.runtimeconfig.json
+C:\Users\ezernt\source\repos\token_ring\server\bin\Debug\net6.0-windows\server.dll
+C:\Users\ezernt\source\repos\token_ring\server\bin\Debug\net6.0-windows\server.pdb
+C:\Users\ezernt\source\repos\token_ring\server\obj\Debug\net6.0-windows\server.csproj.AssemblyReference.cache
+C:\Users\ezernt\source\repos\token_ring\server\obj\Debug\net6.0-windows\server.server.resources
+C:\Users\ezernt\source\repos\token_ring\server\obj\Debug\net6.0-windows\server.csproj.GenerateResource.cache
+C:\Users\ezernt\source\repos\token_ring\server\obj\Debug\net6.0-windows\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezernt\source\repos\token_ring\server\obj\Debug\net6.0-windows\server.AssemblyInfoInputs.cache
+C:\Users\ezernt\source\repos\token_ring\server\obj\Debug\net6.0-windows\server.AssemblyInfo.cs
+C:\Users\ezernt\source\repos\token_ring\server\obj\Debug\net6.0-windows\server.csproj.CoreCompileInputs.cache
+C:\Users\ezernt\source\repos\token_ring\server\obj\Debug\net6.0-windows\server.dll
+C:\Users\ezernt\source\repos\token_ring\server\obj\Debug\net6.0-windows\refint\server.dll
+C:\Users\ezernt\source\repos\token_ring\server\obj\Debug\net6.0-windows\server.pdb
+C:\Users\ezernt\source\repos\token_ring\server\obj\Debug\net6.0-windows\server.genruntimeconfig.cache
+C:\Users\ezernt\source\repos\token_ring\server\obj\Debug\net6.0-windows\ref\server.dll
+D:\Documents\NH 2023-2024\HK1-NH2023-2024\CacHeThongPhanTan\DO_AN\Token_Ring_in_distributed_System\server\bin\Debug\net6.0-windows\server.exe
+D:\Documents\NH 2023-2024\HK1-NH2023-2024\CacHeThongPhanTan\DO_AN\Token_Ring_in_distributed_System\server\bin\Debug\net6.0-windows\server.deps.json
+D:\Documents\NH 2023-2024\HK1-NH2023-2024\CacHeThongPhanTan\DO_AN\Token_Ring_in_distributed_System\server\bin\Debug\net6.0-windows\server.runtimeconfig.json
+D:\Documents\NH 2023-2024\HK1-NH2023-2024\CacHeThongPhanTan\DO_AN\Token_Ring_in_distributed_System\server\bin\Debug\net6.0-windows\server.dll
+D:\Documents\NH 2023-2024\HK1-NH2023-2024\CacHeThongPhanTan\DO_AN\Token_Ring_in_distributed_System\server\bin\Debug\net6.0-windows\server.pdb
+D:\Documents\NH 2023-2024\HK1-NH2023-2024\CacHeThongPhanTan\DO_AN\Token_Ring_in_distributed_System\server\obj\Debug\net6.0-windows\server.server.resources
+D:\Documents\NH 2023-2024\HK1-NH2023-2024\CacHeThongPhanTan\DO_AN\Token_Ring_in_distributed_System\server\obj\Debug\net6.0-windows\server.csproj.GenerateResource.cache
+D:\Documents\NH 2023-2024\HK1-NH2023-2024\CacHeThongPhanTan\DO_AN\Token_Ring_in_distributed_System\server\obj\Debug\net6.0-windows\server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\NH 2023-2024\HK1-NH2023-2024\CacHeThongPhanTan\DO_AN\Token_Ring_in_distributed_System\server\obj\Debug\net6.0-windows\server.AssemblyInfoInputs.cache
+D:\Documents\NH 2023-2024\HK1-NH2023-2024\CacHeThongPhanTan\DO_AN\Token_Ring_in_distributed_System\server\obj\Debug\net6.0-windows\server.AssemblyInfo.cs
+D:\Documents\NH 2023-2024\HK1-NH2023-2024\CacHeThongPhanTan\DO_AN\Token_Ring_in_distributed_System\server\obj\Debug\net6.0-windows\server.csproj.CoreCompileInputs.cache
+D:\Documents\NH 2023-2024\HK1-NH2023-2024\CacHeThongPhanTan\DO_AN\Token_Ring_in_distributed_System\server\obj\Debug\net6.0-windows\server.dll
+D:\Documents\NH 2023-2024\HK1-NH2023-2024\CacHeThongPhanTan\DO_AN\Token_Ring_in_distributed_System\server\obj\Debug\net6.0-windows\refint\server.dll
+D:\Documents\NH 2023-2024\HK1-NH2023-2024\CacHeThongPhanTan\DO_AN\Token_Ring_in_distributed_System\server\obj\Debug\net6.0-windows\server.pdb
+D:\Documents\NH 2023-2024\HK1-NH2023-2024\CacHeThongPhanTan\DO_AN\Token_Ring_in_distributed_System\server\obj\Debug\net6.0-windows\server.genruntimeconfig.cache
+D:\Documents\NH 2023-2024\HK1-NH2023-2024\CacHeThongPhanTan\DO_AN\Token_Ring_in_distributed_System\server\obj\Debug\net6.0-windows\ref\server.dll

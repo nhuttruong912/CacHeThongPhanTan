@@ -1,0 +1,33 @@
+C:\Users\ezernt\source\repos\client\client\bin\Debug\net6.0-windows\client.exe
+C:\Users\ezernt\source\repos\client\client\bin\Debug\net6.0-windows\client.deps.json
+C:\Users\ezernt\source\repos\client\client\bin\Debug\net6.0-windows\client.runtimeconfig.json
+C:\Users\ezernt\source\repos\client\client\bin\Debug\net6.0-windows\client.dll
+C:\Users\ezernt\source\repos\client\client\bin\Debug\net6.0-windows\client.pdb
+C:\Users\ezernt\source\repos\client\client\obj\Debug\net6.0-windows\client.csproj.AssemblyReference.cache
+C:\Users\ezernt\source\repos\client\client\obj\Debug\net6.0-windows\client.client.resources
+C:\Users\ezernt\source\repos\client\client\obj\Debug\net6.0-windows\client.csproj.GenerateResource.cache
+C:\Users\ezernt\source\repos\client\client\obj\Debug\net6.0-windows\client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezernt\source\repos\client\client\obj\Debug\net6.0-windows\client.AssemblyInfoInputs.cache
+C:\Users\ezernt\source\repos\client\client\obj\Debug\net6.0-windows\client.AssemblyInfo.cs
+C:\Users\ezernt\source\repos\client\client\obj\Debug\net6.0-windows\client.csproj.CoreCompileInputs.cache
+C:\Users\ezernt\source\repos\client\client\obj\Debug\net6.0-windows\client.dll
+C:\Users\ezernt\source\repos\client\client\obj\Debug\net6.0-windows\refint\client.dll
+C:\Users\ezernt\source\repos\client\client\obj\Debug\net6.0-windows\client.pdb
+C:\Users\ezernt\source\repos\client\client\obj\Debug\net6.0-windows\client.genruntimeconfig.cache
+C:\Users\ezernt\source\repos\client\client\obj\Debug\net6.0-windows\ref\client.dll
+D:\Documents\NH 2023-2024\HK1-NH2023-2024\CacHeThongPhanTan\DO_AN\Token_Ring_in_distributed_System\client\bin\Debug\net6.0-windows\client.exe
+D:\Documents\NH 2023-2024\HK1-NH2023-2024\CacHeThongPhanTan\DO_AN\Token_Ring_in_distributed_System\client\bin\Debug\net6.0-windows\client.deps.json
+D:\Documents\NH 2023-2024\HK1-NH2023-2024\CacHeThongPhanTan\DO_AN\Token_Ring_in_distributed_System\client\bin\Debug\net6.0-windows\client.runtimeconfig.json
+D:\Documents\NH 2023-2024\HK1-NH2023-2024\CacHeThongPhanTan\DO_AN\Token_Ring_in_distributed_System\client\bin\Debug\net6.0-windows\client.dll
+D:\Documents\NH 2023-2024\HK1-NH2023-2024\CacHeThongPhanTan\DO_AN\Token_Ring_in_distributed_System\client\bin\Debug\net6.0-windows\client.pdb
+D:\Documents\NH 2023-2024\HK1-NH2023-2024\CacHeThongPhanTan\DO_AN\Token_Ring_in_distributed_System\client\obj\Debug\net6.0-windows\client.client.resources
+D:\Documents\NH 2023-2024\HK1-NH2023-2024\CacHeThongPhanTan\DO_AN\Token_Ring_in_distributed_System\client\obj\Debug\net6.0-windows\client.csproj.GenerateResource.cache
+D:\Documents\NH 2023-2024\HK1-NH2023-2024\CacHeThongPhanTan\DO_AN\Token_Ring_in_distributed_System\client\obj\Debug\net6.0-windows\client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\NH 2023-2024\HK1-NH2023-2024\CacHeThongPhanTan\DO_AN\Token_Ring_in_distributed_System\client\obj\Debug\net6.0-windows\client.AssemblyInfoInputs.cache
+D:\Documents\NH 2023-2024\HK1-NH2023-2024\CacHeThongPhanTan\DO_AN\Token_Ring_in_distributed_System\client\obj\Debug\net6.0-windows\client.AssemblyInfo.cs
+D:\Documents\NH 2023-2024\HK1-NH2023-2024\CacHeThongPhanTan\DO_AN\Token_Ring_in_distributed_System\client\obj\Debug\net6.0-windows\client.csproj.CoreCompileInputs.cache
+D:\Documents\NH 2023-2024\HK1-NH2023-2024\CacHeThongPhanTan\DO_AN\Token_Ring_in_distributed_System\client\obj\Debug\net6.0-windows\client.dll
+D:\Documents\NH 2023-2024\HK1-NH2023-2024\CacHeThongPhanTan\DO_AN\Token_Ring_in_distributed_System\client\obj\Debug\net6.0-windows\refint\client.dll
+D:\Documents\NH 2023-2024\HK1-NH2023-2024\CacHeThongPhanTan\DO_AN\Token_Ring_in_distributed_System\client\obj\Debug\net6.0-windows\client.pdb
+D:\Documents\NH 2023-2024\HK1-NH2023-2024\CacHeThongPhanTan\DO_AN\Token_Ring_in_distributed_System\client\obj\Debug\net6.0-windows\client.genruntimeconfig.cache
+D:\Documents\NH 2023-2024\HK1-NH2023-2024\CacHeThongPhanTan\DO_AN\Token_Ring_in_distributed_System\client\obj\Debug\net6.0-windows\ref\client.dll
